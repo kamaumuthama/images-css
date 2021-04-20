@@ -1,0 +1,6 @@
+.container {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.72)),
+    url(/todd.jpg);
+  height: 100vh;
+  background-size: cover;
+}
